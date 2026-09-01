@@ -1,9 +1,17 @@
 
 {
-  "name": "Hatsune Miku",
-  "description": "poop master 707 creation",
+  "name": "RosieMiku (elu's version)",
+  "description": "RosieDark's Color Pallette combined with the Hatsune Miku theme.",
   "version": "1.0.0",
   "authors": [
+    {
+      "name": "elu",
+      "id": "781982654039720008"
+    },
+    {
+      "name": "Rairof",
+      "id": "807170846497570848"
+    },
     {
       "name": "raiden",
       "id": "1387455182526484582"
